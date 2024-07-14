@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wvyq4IML9jBKuPo7owzXLkGiE+9C0evjMXVG00R5C9U=",
+  "Source": "WeatherGuessingBackend",
+  "BasePath": "_content/WeatherGuessingBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
