@@ -55,8 +55,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T10:21:04.746Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "WeatherGuessingBackend\\WeatherData.cs",
               "ViewState": "AQIAABAAAAAAAAAAAIA2wCEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T18:30:01.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T18:30:01.957Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "WeatherGuessingBackend\\Quiz.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T17:26:33.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T17:26:33.065Z"
             },
             {
               "$type": "Document",
@@ -128,7 +125,7 @@
               "RelativeDocumentMoniker": "WeatherGuessingBackend\\Controllers\\QuizManagerController.cs",
               "ToolTip": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\Controllers\\QuizManagerController.cs",
               "RelativeToolTip": "WeatherGuessingBackend\\Controllers\\QuizManagerController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwDwAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T17:23:59.722Z",
               "EditorCaption": ""

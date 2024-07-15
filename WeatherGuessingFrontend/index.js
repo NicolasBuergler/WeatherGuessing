@@ -13,7 +13,7 @@ function App() {
     const sendAnswer = async (answer) => {
         try {
             console.log(answer)
-            const response = await fetch(`https://localhost:7118/QuizManager/solution?answer=${answer}&cityName=${data.city}`);
+            const response = await fetch(`http://localhost:5000/QuizManager/solution?answer=${answer}&cityName=${data.city}`);
             if (response.ok) {
                 const jsonData = await response.json();
                 console.log(jsonData);
@@ -34,7 +34,7 @@ function App() {
 
     const fetchData = async () => {
         try {
-           const response = await fetch('https://localhost:7118/QuizManager');
+           const response = await fetch('http://localhost:5000/QuizManager');
            console.log(response);
           if (response.status === 200) {
             const jsonData = await response.json();
