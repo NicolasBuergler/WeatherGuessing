@@ -30,3 +30,4 @@ D:\Projekte\WeatherGuessing\WeatherGuessingBackend\WeatherGuessingBackend\obj\De
 D:\Projekte\WeatherGuessing\WeatherGuessingBackend\WeatherGuessingBackend\obj\Debug\net8.0\WeatherGuessingBackend.pdb
 D:\Projekte\WeatherGuessing\WeatherGuessingBackend\WeatherGuessingBackend\obj\Debug\net8.0\WeatherGuessingBackend.genruntimeconfig.cache
 D:\Projekte\WeatherGuessing\WeatherGuessingBackend\WeatherGuessingBackend\obj\Debug\net8.0\ref\WeatherGuessingBackend.dll
+D:\Projekte\WeatherGuessing\WeatherGuessingBackend\WeatherGuessingBackend\obj\Debug\net8.0\WeatherGuessingBackend.sourcelink.json

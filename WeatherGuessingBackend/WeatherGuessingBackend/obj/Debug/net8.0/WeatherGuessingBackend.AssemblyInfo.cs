@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherGuessingBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8170326978f2388269232790e925f0e14ee8ac63")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherGuessingBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherGuessingBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

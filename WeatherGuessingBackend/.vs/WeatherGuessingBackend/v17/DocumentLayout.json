@@ -11,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|solutionrelative:weatherguessingbackend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|d:\\projekte\\weatherguessing\\weatherguessingbackend\\weatherguessingbackend\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|solutionrelative:weatherguessingbackend\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|d:\\projekte\\weatherguessing\\weatherguessingbackend\\weatherguessingbackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|solutionrelative:weatherguessingbackend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|d:\\projekte\\weatherguessing\\weatherguessingbackend\\weatherguessingbackend\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|solutionrelative:weatherguessingbackend\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|d:\\projekte\\weatherguessing\\weatherguessingbackend\\weatherguessingbackend\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|solutionrelative:weatherguessingbackend\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|d:\\projekte\\weatherguessing\\weatherguessingbackend\\weatherguessingbackend\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|solutionrelative:weatherguessingbackend\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|d:\\projekte\\weatherguessing\\weatherguessingbackend\\weatherguessingbackend\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72B0568-AB04-4C62-B208-3AF5BDA5056D}|WeatherGuessingBackend\\WeatherGuessingBackend.csproj|solutionrelative:weatherguessingbackend\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\Extensions.cs",
+              "RelativeDocumentMoniker": "WeatherGuessingBackend\\Extensions.cs",
+              "ToolTip": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\Extensions.cs",
+              "RelativeToolTip": "WeatherGuessingBackend\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:36:04.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WeatherGuessingBackend\\WeatherData.cs",
+              "ToolTip": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\WeatherData.cs",
+              "RelativeToolTip": "WeatherGuessingBackend\\WeatherData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAewCEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:30:01.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\City.cs",
+              "RelativeDocumentMoniker": "WeatherGuessingBackend\\City.cs",
+              "ToolTip": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\City.cs",
+              "RelativeToolTip": "WeatherGuessingBackend\\City.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T18:05:45.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Quiz.cs",
               "DocumentMoniker": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\Quiz.cs",
               "RelativeDocumentMoniker": "WeatherGuessingBackend\\Quiz.cs",
               "ToolTip": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\Quiz.cs",
               "RelativeToolTip": "WeatherGuessingBackend\\Quiz.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T17:26:33.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherGuessingBackend\\WeatherForecast.cs",
@@ -62,7 +113,7 @@
               "RelativeDocumentMoniker": "WeatherGuessingBackend\\Controllers\\QuizManagerController.cs",
               "ToolTip": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\Controllers\\QuizManagerController.cs",
               "RelativeToolTip": "WeatherGuessingBackend\\Controllers\\QuizManagerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T17:23:59.722Z",
               "EditorCaption": ""
@@ -75,7 +126,7 @@
               "RelativeDocumentMoniker": "WeatherGuessingBackend\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\Projekte\\WeatherGuessing\\WeatherGuessingBackend\\WeatherGuessingBackend\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "WeatherGuessingBackend\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T17:19:42.129Z",
               "EditorCaption": ""
