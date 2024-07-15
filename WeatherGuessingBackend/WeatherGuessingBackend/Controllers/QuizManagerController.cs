@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
 
 namespace WeatherGuessingBackend.Controllers
@@ -51,7 +52,7 @@ namespace WeatherGuessingBackend.Controllers
         }
 
         [HttpGet("solution", Name = "GetSolution")]
-        public bool GetSolution([FromQuery] float awnser, [FromQuery] string cityName)
+        public bool GetSolution([FromQuery] float answer, [FromQuery] string cityName)
         {
             City city = City.GetCityByName(cityName);
             WeatherData weatherData = GetWeatherData(city);
@@ -59,7 +60,7 @@ namespace WeatherGuessingBackend.Controllers
             float currentTemprature = weatherData.GetTemprature(DateTime.UtcNow);
             float lastTemprature = weatherData.GetTemprature(DateTime.UtcNow.AddHours(-1));
 
-            if (currentTemprature == awnser || lastTemprature == awnser)
+            if (currentTemprature == answer || lastTemprature == answer)
             {
                 return true;
             }
